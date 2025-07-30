@@ -1,0 +1,9 @@
+setting,accuracy
+LLaMA Direct vs. Original,0.07354056103108415
+LLaMA CoT vs. Original,0.7793783169067475
+LLaMA Corrupted CoT vs. Original,0.026535253980288095
+LLaMA with Partial CoT vs. Original,0.759666413949962
+Gemma3 Direct vs. Original,0.2577710386656558
+Gemma3 with LLaMA's CoT vs. Original,0.7983320697498104
+Gemma3 with LLaMA's Corrupted CoT vs. Original,0.10917361637604246
+Gemma3 with LLaMA's Partial CoT vs. Original,0.8127369219105383

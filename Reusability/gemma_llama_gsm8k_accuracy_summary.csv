@@ -1,0 +1,7 @@
+setting,accuracy
+Gemma3 Direct vs. Original,0.10083396512509477
+Gemma3 CoT vs. Original,0.0
+Gemma3 Corrupted CoT vs. Original,0.0
+Llama3 Direct vs. Original,0.08718726307808947
+Llama3 with Gemma's Correct CoT vs. Original,0.3889310083396513
+Llama3 with Gemma's Flawed CoT vs. Original,0.04473085670962851

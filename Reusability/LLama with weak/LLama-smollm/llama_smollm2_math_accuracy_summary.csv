@@ -1,0 +1,9 @@
+setting,accuracy
+LLaMA Direct vs. Original,45.01639334720207
+LLaMA CoT vs. Original,38.6911256635389
+LLaMA Corrupted CoT vs. Original,7.2211762056357
+LLaMA Partial CoT vs. Original,44.08847201401909
+SmolLM2 Direct vs. Original,7.976433339246016
+SmolLM2 w/ CoT vs. Original,34.21043289072338
+SmolLM2 w/ Corrupted CoT vs. Original,7.2835073358340185
+SmolLM2 w/ Partial CoT vs. Original,12.710215478189484

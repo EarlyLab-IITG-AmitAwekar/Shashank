@@ -1,0 +1,9 @@
+setting,accuracy
+LLaMA Direct vs. Original,0.07354056103108415
+LLaMA CoT vs. Original,0.7793783169067475
+LLaMA Corrupted CoT vs. Original,0.026535253980288095
+LLaMA with Partial CoT vs. Original,0.759666413949962
+DeepSeek Direct vs. Original,0.8817285822592873
+DeepSeek with LLaMA's CoT vs. Original,0.8832448824867324
+DeepSeek with LLaMA's Corrupted CoT vs. Original,0.778620166793025
+DeepSeek with LLaMA's Partial CoT vs. Original,0.913570887035633
