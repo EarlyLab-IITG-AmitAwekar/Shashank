@@ -1,0 +1,9 @@
+setting,accuracy,valid_responses,total_questions
+Gemma3 Direct vs. Original,0.653,1000,1000
+Gemma3 CoT vs. Original,0.933,1000,1000
+Gemma3 Corrupted CoT vs. Original,0.02,1000,1000
+Gemma3 Partial CoT vs. Original,0.924,1000,1000
+SmolLM Direct vs. Original,0.05805805805805806,999,1000
+SmolLM with CoT vs. Original,0.9209209209209209,999,1000
+SmolLM with Corrupted CoT vs. Original,0.031,1000,1000
+SmolLM with Partial CoT vs. Original,0.21621621621621623,999,1000

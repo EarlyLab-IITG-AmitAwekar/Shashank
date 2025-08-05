@@ -1,0 +1,9 @@
+setting,accuracy
+Gemma3 Direct vs. Original,80.26621446561516
+Gemma3 CoT vs. Original,78.34931051928575
+Gemma3 Corrupted CoT vs. Original,22.04978812324
+Gemma3 Partial CoT vs. Original,78.76494421745797
+SmolLM2 Direct vs. Original,10.95267018463371
+SmolLM2 w/ CoT vs. Original,59.62349179521433
+SmolLM2 w/ Corrupted CoT vs. Original,18.607358977802622
+SmolLM2 w/ Partial CoT vs. Original,17.27702262623417
